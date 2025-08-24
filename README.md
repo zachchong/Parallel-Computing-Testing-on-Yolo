@@ -3,6 +3,11 @@
 This project demonstrates how to send and process multiple images between a **client** and a **server** using **WebSockets**. It highlights the difference between **sequential execution** and **parallel execution** using Python’s `asyncio`.
 
 ---
+Sequential Workflow
+![App Screenshot](images/workflow.png)
+
+Parallel Workflow
+![App Screenshot](images/sdas.png)
 
 ## 📌 Features
 
