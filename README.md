@@ -4,12 +4,12 @@ This project demonstrates how to send and process multiple images between a **cl
 
 ---
 ## 🔁 Sequential Workflow
-<img src="images/workflow.png" alt="Sequential Workflow" width="400" height="300"/>
+<img src="images/workflow.png" alt="Sequential Workflow" width="400" height="600"/>
 
 ---
 
 ## 🔀 Parallel Workflow
-<img src="images/sdas.png" alt="Parallel Workflow" width="400" height="300"/>
+<img src="images/sdas.png" alt="Parallel Workflow" width="400" height="600"/>
 
 ---
 
